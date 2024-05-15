@@ -3,5 +3,7 @@
 ### How to run
 
 ```
-QMAKE=/usr/bin/qmake cargo run
+# Qmake and Qt6 must be installed!
+
+cargo run
 ```
